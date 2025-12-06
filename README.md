@@ -3,7 +3,7 @@
 ---
 
 ##  Project Overview
-
+Image-to-Text Conversion/Extraction.
 Hospital bills are chaotic, multiple pages, inconsistent layouts, tabular + free text mashups, and crucial totals hidden between noisy disclaimers.
 
 This API extracts **only what matters**:
@@ -48,3 +48,4 @@ uvicorn app.main:app --reload
 http://localhost:8000/docs
 
 ---
+
